@@ -1,0 +1,28 @@
+/* font link */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* background */
+.bg-honda{
+    background-color: #264653;
+}
+.computer-controlled{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 22px;
+}
+.honda-cbr{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+}
+.amet-minim{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    width: 456px;
+    height: 72px;
+}
