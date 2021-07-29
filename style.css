@@ -43,5 +43,11 @@ body{
     line-height: 21px;
 }
 .font-color{
-    color:#E76F51; ;
+    color:#E76F51;
+}
+.star-color i{
+    color:#E76F51;
+}
+.rm-color{
+    color: #252B42;
 }
