@@ -42,6 +42,13 @@ body{
     font-size: 14px;
     line-height: 21px;
 }
+/* bick gray color section */
+.bick-gray {
+    filter: gray; /* IE6-9 */
+    -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+    filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
+  }
+
 .font-color{
     color:#E76F51;
 }
@@ -53,9 +60,5 @@ body{
     color:#23A6F0;
 }
 
-.bick-gray {
-    filter: gray; /* IE6-9 */
-    -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
-    filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
-  }
+
   
