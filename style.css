@@ -2,6 +2,7 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+/* honda cbr section start */
 /* background */
 .bg-honda{
     background-color: #264653;
@@ -25,4 +26,20 @@ body{
     line-height: 24px;
     width: 456px;
     height: 72px;
+}
+.btn-color{
+    background-color: #E76F51;
+}
+/* honda cbr section end */
+.bick-2021{
+    color:#000000;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+}
+.best-bike{
+    color: #E76F51;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
 }
